@@ -6,7 +6,7 @@ Static site, no build step. Home page `index.html`, one SEO page per tool in `to
 2. Cloudflare dashboard → Workers & Pages → Create → Pages → Connect to Git → pick the repo.
 3. Framework preset: None. Build command: empty. Output directory: `/`. Save and deploy.
 4. Custom domain later: project → Custom domains → Set up a domain.
-5. Replace `everydaytools.pages.dev` with your real URL in `index.html`, `tools/*.html`, `robots.txt` and `sitemap.xml`.
+5. The current production URL is `https://everydaytools-c4f.pages.dev/`. If you later attach a custom domain, update canonical, Open Graph, JSON-LD, `robots.txt` and `sitemap.xml` URLs together.
 6. Submit `/sitemap.xml` in Google Search Console.
 
 ## Notes
