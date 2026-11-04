@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://everydaytools.pages.dev/sitemap.xml
+Sitemap: https://everydaytools-c4f.pages.dev/sitemap.xml
